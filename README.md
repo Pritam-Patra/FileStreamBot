@@ -141,4 +141,4 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
 
-- [Avishkarpatil](https://telegram.me/TopTm)
+- [TopTm](https://telegram.me/TopTm)
